@@ -1,18 +1,17 @@
 {
-    "name": "yin32167/cpstpl",
+    "name": "sharehappy/testcomposer",
     "description":  "My template of composer project!",
-    "keywords": ["yin32167"],
+    "keywords": ["sharehappy"],
     "license": "MIT",
     "authors": [
         {
             "name": "Magina Yin",
-            "email": "yin32167@aliyun.com",
-            "homepage": "https://github.com/yin32167",
+            "email": "sharehappy@aliyun.com",
+            "homepage": "https://github.com/sharehappy11",
             "role": "Developer"
         }
     ],
     "require": {
-        "monolog/monolog": "1.0.*",
         "php": ">=7.0.0"
     },
     "require-dev": {
