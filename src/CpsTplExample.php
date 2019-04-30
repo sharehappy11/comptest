@@ -9,4 +9,8 @@ class CpsTplExample {
 
         return "Hi I'm magina, this is my template of composer project!";
     }
+
+    public function hello() {
+        return 'hello world';
+    }
 }
